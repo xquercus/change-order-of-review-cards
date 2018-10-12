@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 # Copyright: Damien Elmes <anki@ichi2.net>
 # License: GNU GPL, version 3 or later; http://www.gnu.org/copyleft/gpl.html
+# Compatibility: Anki v2.1 default and experimental v2 scheduler
+#                NOT compatible with Anki 2.0
 #
 # Force review cards to be displayed in a particular order, at a roughly 10x
 # decrease in performance.
